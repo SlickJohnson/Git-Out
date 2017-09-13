@@ -6,7 +6,7 @@ After moving to San Francisco and attending a few meetups, a young programmer is
 
 ## Cast
 
-- Young Programmer: Jim Carrey
-- Git Instructor: Tom Hanks
+- Young Programmer: Sam
+- Git Instructor: Elmer
 
 More to be announced!
